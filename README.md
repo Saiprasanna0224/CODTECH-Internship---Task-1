@@ -17,7 +17,7 @@ The objective of this project is to develop a software tool that evaluates the s
 The tool should implement algorithms to analyze key factors such as length, complexity, and uniqueness.
 
 
-#### key activities
+#### KEY ACTIVITIES
 Certainly! Here are the main four key activities:
 
 1. **Algorithm Development**

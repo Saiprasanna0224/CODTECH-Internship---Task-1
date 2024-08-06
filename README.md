@@ -1,1 +1,1 @@
-# CODETCH-Internship---Task-1
+# CODETCH Internship---Task1
